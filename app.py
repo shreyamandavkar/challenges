@@ -2,7 +2,7 @@
 # Importing the complex math module
 import boto2
 
-alphabet = 1+2j
+alphabet = 1+2jjjjjjjj
 
 # To take input from the user
 #num = eval(input('Enter a number: '))
